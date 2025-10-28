@@ -3,6 +3,7 @@
 
 
 🚖 Ola Rides Data Analysis Report
+#PowerBI #SQL #Excel #DataAnalytics #Dashboard #Ola #BusinessIntelligence #DataVisualization #DataAnalysis #ProjectShowcase
 
 
 Using Power BI | SQL Server | Excel
