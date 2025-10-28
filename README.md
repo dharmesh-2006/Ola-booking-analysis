@@ -45,6 +45,10 @@ Customer_Rating	                                Rating given by the driver to th
 
 
 
+<img width="1015" height="707" alt="Screenshot 2025-10-28 182154" src="https://github.com/user-attachments/assets/7cfcb578-f46a-4679-a383-9ff74431cfb5" />
+
+
+
 📊 4. Power BI Dashboard Segmentation
 
 1. Overall View
@@ -72,14 +76,12 @@ Customer_Rating	                                Rating given by the driver to th
 
 
 
-<img width="1480" height="838" alt="Screenshot 2025-10-27 203731" src="https://github.com/user-attachments/assets/1949721a-dad8-4bc0-b2a5-e3d897c0f351" />
-<img width="1542" height="910" alt="Screenshot 2025-10-27 203752" src="https://github.com/user-attachments/assets/3b27f7a9-5642-400e-94e7-e39531646754" />
-<img width="1314" height="617" alt="Screenshot 2025-10-27 203805" src="https://github.com/user-attachments/assets/4c6258de-429d-4047-b24d-331dfdaba935" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-27 203817" src="https://github.com/user-attachments/assets/986b8990-102a-43a0-9d3d-24aeedff4168" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-27 203829" src="https://github.com/user-attachments/assets/02d013d1-3876-4167-b0c6-b3776ccbbc0c" />
 
-
-
+<img width="1920" height="1020" alt="Screenshot 2025-10-27 203829" src="https://github.com/user-attachments/assets/75eef1a6-ef3d-4cb5-b340-7ebda3973011" />
+<img width="1314" height="617" alt="Screenshot 2025-10-27 203805" src="https://github.com/user-attachments/assets/dbac1fd4-f3b1-4690-8fcd-0e40e339acf7" />
+<img width="1542" height="910" alt="Screenshot 2025-10-27 203752" src="https://github.com/user-attachments/assets/22760176-ece8-4616-bb91-589aa1e92ad2" />
+<img width="1480" height="838" alt="Screenshot 2025-10-27 203731" src="https://github.com/user-attachments/assets/e0c33acf-0ef8-49b7-92b4-dbd178a782ce" />
+<img width="1425" height="838" alt="Screenshot 2025-10-27 203708" src="https://github.com/user-attachments/assets/8c5e77e9-1df4-4df1-9268-374373f7e6dd" />
 
 
 
